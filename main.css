@@ -1,1 +1,29 @@
+h1 {
+    color: blue;
+}
 
+.colleges {
+    background-color: #c83;
+}
+
+.topics {
+list-style-type: none;
+
+}
+  div img{
+  max-width: 300px;
+ 
+  }
+   div {
+       display: flex;
+       flex-flow: row wrap;
+       
+       
+       
+       
+   }
+
+  figure img{
+      margin: 20px;
+     
+  }
